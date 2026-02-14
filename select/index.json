@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "例えば",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-14T04:09:41.477158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "例えば",
+      "artist": "Asmi",
+      "has_synced": true,
+      "path": "select/01_例えば_Asmi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "例えば、今此処に置かれた花に feat.GUMI",
+      "artist": "164",
+      "has_synced": true,
+      "path": "select/02_例えば、今此処に置かれた花に_feat.GUMI_164.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "例えば、",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/03_例えば、_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "例えば、今此処に置かれた花に",
+      "artist": "164",
+      "has_synced": false,
+      "path": "select/04_例えば、今此処に置かれた花に_164.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "例えば",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_例えば_花譜.txt"
+    }
+  ]
+}
